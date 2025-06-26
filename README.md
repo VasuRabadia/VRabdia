@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VRabdia
+- 👋 Hi, I’m @VasuRabadia
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Robotics, e.t.c.
 - 🌱 I’m currently majoring in BS in Computer Science with a minor in Mathematics in Kent State University.
 - 💞️ I’m looking to collaborate on any project that includes coding in C++, Python, JavaScript or HTML/CSS.
